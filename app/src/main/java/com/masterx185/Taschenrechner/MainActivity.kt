@@ -28,7 +28,6 @@ class MainActivity : AppCompatActivity() {
         )
         zahlen.forEach { (id, wert) -> findViewById<Button>(id).setOnClickListener { zahlGedrueckt(wert) } }
 
-        // Operatoren
         findViewById<Button>(R.id.button_plus).setOnClickListener { opGedrueckt("+") }
         findViewById<Button>(R.id.button_minus).setOnClickListener { opGedrueckt("-") }
         findViewById<Button>(R.id.btn_mult).setOnClickListener { opGedrueckt("*") }
