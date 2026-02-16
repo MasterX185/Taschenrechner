@@ -4,7 +4,7 @@ A simple and efficient calculator designed to perform advanced mathematical oper
 
 ## 🚀 Features
 * **Basic Arithmetic**: Addition, subtraction, multiplication, and division.
-* **Responsive Design**: Works perfectly on desktops and mobile devices.
+* **Responsive Design**: Works perfectly on mobile devices.
 * **History Log**: Keep track of your previous calculations.
 * **Open Source**: Licensed under the GNU GPLv3 to ensure software freedom.
 
